@@ -7,6 +7,6 @@ Detta är sjätte raden
 Detta är sjunde raden
 Åttonde raden
 Rad nio
-Rad tio - Denna ska bara synas i Dev-branchen.
+Rad tio - Denna ska bara synas i Dev-branchen
 
 -----
