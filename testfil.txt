@@ -4,3 +4,4 @@ Gör ett tredje försök.
 Gör ett fjärde försök att få upp detta
 Detta är femte raden
 Detta är sjätte raden
+Detta är sjunde raden
