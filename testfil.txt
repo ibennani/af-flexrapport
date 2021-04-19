@@ -6,10 +6,6 @@ Detta är femte raden
 Detta är sjätte raden
 Detta är sjunde raden
 Åttonde raden
-<<<<<<< HEAD
 Nionde raden - bara i Master-grenen
-=======
-Rad nio
 
------
->>>>>>> 381388e53575e386f9770a34045ba1593da68ff0
+******
