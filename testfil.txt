@@ -6,6 +6,12 @@ Detta är femte raden
 Detta är sjätte raden
 Detta är sjunde raden
 Åttonde raden
+<<<<<<< HEAD
 Nionde raden - bara i Master-grenen
+=======
+Rad nio
+Rad tio - Denna ska bara synas i Dev-branchen
+Rad 11  - Denna ska bara synas i Dev-branchen
+>>>>>>> Development
 
 ******
